@@ -1,8 +1,7 @@
 # 💫 About Me:
-🔭 I'm currently working on **Oncology Treatment Software** at Santec <br>
+💻 I'm currently working on **Oncology Treatment Software** at Santec <br>
 🌱 I'm interested in **automation workflows, UX/UI design systems, and projects that blend technical excellence with visual creativity**  <br>
-💬 Ask me about **C#, Unity, React, data visualization, or how game development principles can elevate UX design**  <br>
-⚡ Fun fact: **I worked as Game Developer for Nintendo Switch and PC Games, now I'm applying that same eye for detail and user experience to enterprise software and automation!**
+⚡ Fun fact: **I worked as Game Developer for Nintendo Switch and PC Games, now I'm applying that experience to enterprise software and automation!**
 
 
 ## 🌐 Socials:
