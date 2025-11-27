@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=PaoloConteDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=PaoloConteDev&theme=dark&hide_border=false)<br/>-->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloConteDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloConteDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=151515&quoteColor=F3F3F3&authorColor=F3F3F3&symbolColor=F3F3F3)
