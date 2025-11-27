@@ -1,10 +1,8 @@
 # 💫 About Me:
-🔭 I'm currently working on **Oncology Treatment Software** at Santec, developing healthcare ERP solutions that comply with EU Class IIb medical device regulations  
-👯 I'm looking to collaborate on **automation workflows, UX/UI design systems, and projects that blend technical excellence with visual creativity**  
-🤝 I'm looking for help with **advanced automation frameworks, design system architecture, and creative coding techniques**  
-🌱 I'm currently learning **workflow automation tools (n8n, Zapier), advanced UI/UX patterns, and motion design for web applications**  
+🔭 I'm currently working on **Oncology Treatment Software** at Santec
+🌱 I'm interested in **automation workflows, UX/UI design systems, and projects that blend technical excellence with visual creativity**  
 💬 Ask me about **C#, Unity, React, data visualization, or how game development principles can elevate UX design**  
-⚡ Fun fact: **I've designed game interfaces for Steam and Nintendo Switch – now I'm applying that same eye for detail and user experience to enterprise software and automation!**
+⚡ Fun fact: **I worked as Game Developer for Nintendo Switch and PC Games, now I'm applying that same eye for detail and user experience to enterprise software and automation!**
 
 
 ## 🌐 Socials:
