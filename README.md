@@ -1,7 +1,7 @@
 # 💫 About Me:
 💼 I'm currently working on **Oncology Treatment Software** at Santec <br>
 🌱 I'm interested in **automation workflows, UX/UI design systems, and projects that blend technical excellence with visual creativity**  <br>
-⚡ Fun fact: **I worked as Game Developer for Nintendo and PC Games, now I'm applying that experience to enterprise software and automation!**
+⚡ Fun fact: **I worked as Game Developer for Nintendo and PC Games, now I'm applying that experience to enterprise software and automation!** [Here's my Portfolio!](https://paolocontedev.wixsite.com/portfolio)
 
 
 ## 🌐 Socials:
